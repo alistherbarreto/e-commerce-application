@@ -54,6 +54,7 @@ class Directory extends React.Component {
                         </MenuItem>
                     ))
                 }
+                
             </div>
         )
     }
